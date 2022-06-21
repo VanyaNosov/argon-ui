@@ -1,8 +1,9 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 
-export function Reg() {
+
+export function Components() {
   return (
-    <Text>Hello Reg!</Text>
+    <Text>Hello Components!</Text>
   );
 }
