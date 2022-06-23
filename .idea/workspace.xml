@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b6edc91c-987d-425b-ae2f-58bdbb6f5204" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/navigation/DrawerNavigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/navigation/DrawerNavigation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/Home.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,10 +45,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="100" y="100" width="1720" height="840" key="AVDManager" timestamp="1651949109633">
+    <state x="100" y="100" width="1720" height="840" maximized="true" key="AVDManager" timestamp="1655841100540">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="100" y="100" width="1720" height="840" key="AVDManager/0.0.1920.1040@0.0.1920.1040" timestamp="1651949109633" />
+    <state x="100" y="100" width="1720" height="840" maximized="true" key="AVDManager/0.0.1920.1040@0.0.1920.1040" timestamp="1655841100540" />
     <state width="254" height="198" key="RunAnythingAction_Filter_Popup" timestamp="1649772064526">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
