@@ -52,10 +52,10 @@ export function DrawerNavigate() {
         drawerActiveBackgroundColor: '#5E72E4',
         drawerActiveTintColor: '#fff',
         drawerInactiveTintColor: '#333',
-      }}
-    >
+    }}>
       {
-        DrawerItems.map(drawer => <Drawer.Screen
+        DrawerItems.map(drawer => 
+        <Drawer.Screen
           key={drawer.name}
           name={drawer.name}
           options={{
